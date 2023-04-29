@@ -17,7 +17,7 @@ Click here to see <a href="#">documentation</a>
 
 from examples folder
 
-```
+```C++
 #include "../basic.hpp"
 
 int main(){
