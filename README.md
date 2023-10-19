@@ -5,7 +5,7 @@
 <h1>About</h1>
 
 <p><b>basicGUI - C++ Library for Graphical User Interface</b></p>
-<p>basicGUI let's developers to create <b>fast</b>, <b>easy</b> and <b>light</b> applications.</p>
+<p>basicGUI lets developers to create <b>fast</b>, <b>easy</b> and <b>light</b> applications.</p>
 
 
 # Preview
